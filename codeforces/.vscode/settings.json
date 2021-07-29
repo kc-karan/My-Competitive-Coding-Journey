@@ -1,0 +1,7 @@
+{
+    "git.ignoreLimitWarning": true,
+    "competitive-programming-helper.firstTime": false,
+    "files.associations": {
+        "functional": "cpp"
+    }
+}
